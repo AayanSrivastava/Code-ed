@@ -82,7 +82,7 @@ nav input{
 #login{
     position: relative;
     top: -145px;
-    left: 1263px;
+    left: 1178px;
     width: 67px;
     height: 24px;
     background-color: rgba(93, 91, 88, 0.4);
@@ -101,4 +101,7 @@ nav input{
     color: whitesmoke;
     background: rgba(93, 91, 88, 0.4);
     box-shadow: 0 0 10px rgba(93, 91, 88, 0.4),0 0 40px rgba(93, 91, 88, 0.4),0 0 80px rgba(93, 91, 88, 0.4);
+}
+footer{
+    height: 700px;
 }
